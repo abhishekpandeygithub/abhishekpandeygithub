@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpandeygithub&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpandeygithub" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m **Flutter Developer**
 
 - 💬 Ask me about **Flutter Dart, Android Java**
 
